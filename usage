@@ -1,0 +1,8 @@
+H          - Move cursor to the top of the screen
+L          - Move cursor to the bottom of the screen
+}          - start of the next paragraph or block or text
+{          - start of the previous paragraph or block or text
+yy         - copies a line
+y          - copies highlighted text
+d          - deletes highlighted text
+:[number]  - moves the cursor to the line number
